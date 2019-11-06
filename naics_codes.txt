@@ -1,0 +1,26 @@
+Code	Title	Abbreviation
+11	"Agriculture, Forestry, Fishing and Hunting"	Agriculture
+21	"Mining, Quarrying, and Oil and Gas Extraction"	Oil&Gas
+22	Utilities	Utilities
+23	Construction	Construction
+31	Manufacturing	Manufacturing
+32	Manufacturing	Manufacturing
+33	Manufacturing	Manufacturing
+42	Wholesale Trade	Wholesale
+44	Retail Trade	Retail
+45	Retail Trade	Retail
+48	Transportation and Warehousing	Transportation
+49	Transportation and Warehousing	Transportation
+51	Information	Information
+52	Finance and Insurance	Finance/Insurance
+53	Real Estate and Rental and Leasing	Real Estate
+54	"Professional, Scientific, and Technical Services"	Tech Services
+55	Management of Companies and Enterprises	Management
+56	Administrative and Support and Waste Management and Remediation Services	Administrative
+61	Educational Services	Education
+62	Health Care and Social Assistance	Health Care
+71	"Arts, Entertainment, and Recreation"	Arts
+72	Accommodation and Food Services	Food/Lodging
+81	Other Services (except Public Administration)	Other
+92	Public Administration	Public Admin
+99	Unknown	Unknown
