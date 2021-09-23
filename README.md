@@ -1,4 +1,4 @@
-# US-Businesses-Analysis
+# US-Businesses-Data-Exploration-and-Analysis
 
 **This project originated from a graduate Data Science course at Seattle University. My notebook as well as the original dataset are located in this repository. This README contains the original assignment. My answers to the below questions are located in my notebook.**
 
