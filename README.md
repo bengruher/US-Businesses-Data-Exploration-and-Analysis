@@ -1,4 +1,8 @@
 # US-Businesses-Analysis
+
+This project originated from a graduate Data Science course at Seattle University. My notebook as well as the original dataset are located in this repository. This README contains the original assignment. My answers to the below questions are located in my notebook. 
+
+
 For this exercise you will pull together data from threedifferent sources, and use that data to do some analysis about the relationships between businesses, the kind of business, where the business is located, and the population and income of where it is located. Your data comes in threefiles The first file businesses.tsv gives you some information about some of the businesses the companyknows about.  This is a sample of approximately 100K business;  there are approximately 18M businesses in the full data set.  Also, the full data set has rich informationabout each business.  
 
 For this exercise all we are giving you is 
